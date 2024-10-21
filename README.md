@@ -7,6 +7,16 @@
 
 - 🌱 I’m currently learning **C++**
 
+- 👨‍💻 All of my projects are available at [https://github.com/taharachedi?tab=repositories](https://github.com/taharachedi?tab=repositories)
+
+- 💬 Ask me about **C++ & Problem Solving**
+
+- 📫 How to reach me **taharachedi7@gmail.com**
+
+- 📄 Know about my experiences [linkedin.com/in/taha-rachedi](linkedin.com/in/taha-rachedi)
+
+- ⚡ Fun fact **teamwork ✌️**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/taha rachedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha rachedi" height="30" width="40" /></a>
