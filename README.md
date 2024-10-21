@@ -1,5 +1,6 @@
 <h1 align="center"><b>Hi , I'm Taha Rachedi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
 <h3 align="center">A passionate C++ developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taharachedi&label=Profile%20views&color=0e75b6&style=flat" alt="taharachedi" /> </p>
@@ -23,6 +24,7 @@
 <a href="https://linkedin.com/in/taha rachedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha rachedi" height="30" width="40" /></a>
 <a href="https://fb.com/taha rachedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taha rachedi" height="30" width="40" /></a>
 <a href="https://instagram.com/taha_rachedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taha_rachedi" height="30" width="40" /></a>
+<a href="https://discord.gg/taha_1974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="taha_1974" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taharachedi&show_icons=true&locale=en" alt="taharachedi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taharachedi&" alt="taharachedi" /></p>
+
