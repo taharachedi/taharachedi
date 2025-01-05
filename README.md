@@ -14,7 +14,6 @@ I'm constantly exploring new technologies and improve my skills
 ### 🛠 &nbsp;Tech Stack
 <img  src="https://user-images.githubusercontent.com/78433466/234953332-f4e461b5-2b93-4133-9bc8-ee48440691fa.png" height="30" width="30"/> <img  src="https://user-images.githubusercontent.com/78433466/234954329-6e47befd-26e0-46c4-8628-c01c2378b0a8.png" height="30" width="30"/>
 <img  src="https://user-images.githubusercontent.com/78433466/234954776-1e89439a-80b3-490d-bcc1-fb3058344c2f.png" height="30" width="30"/>
-<img  src="https://user-images.githubusercontent.com/78433466/234955278-55d52452-0450-4e94-899f-eb26e28ac136.png" height="30" width="30"/>
 <img  src="https://user-images.githubusercontent.com/78433466/234955492-78d92890-7c70-4163-9317-0cbae37d893e.png" height="30" width="30"/>
 <img  src="https://user-images.githubusercontent.com/78433466/234955670-df95b42e-fd83-4726-a214-5cd221120633.png" height="30" width="30"/>
 <img  src="https://user-images.githubusercontent.com/78433466/234956309-8b856d3b-d8a0-4cbf-8088-f04006582e43.png" height="30" width="30"/>
