@@ -24,12 +24,7 @@ I'm constantly exploring new technologies and improve my skills
 <img  src="https://github.com/asmaacode/asmaacode/assets/78433466/c2be39ab-7f78-4259-a13c-6da0b0f25f14.png" height="30" width="30"/>
 
 
-### &nbsp;Contact Me
-<a href="https://www.linkedin.com/in/asma-a-sabbah-6bb8641a5/" target="_blank"><img src="https://img.icons8.com/color/100/undefined/linkedin-circled.png" height="30" width="30
-" alt="Linkedin-icon" /></a>
-<a href="mailto:asmaasabbah.as@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/undefined/mail.png" height="30" width="30" alt="mailto:asmaasabbah.as@gmail.com" /></a>
 
-</h1
 
 ### &nbsp;Contact Me
 <a href="https://www.linkedin.com/in/taha-rachedi/" target="_blank"><img src="https://img.icons8.com/color/100/undefined/linkedin-circled.png" height="30" width="30
