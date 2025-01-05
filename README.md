@@ -4,7 +4,7 @@
       
 <h3>
 I'm a software developer<img src="https://i.ibb.co/xfN0brH/working-cat.gif" width="30"/>
-and ofcourse a problem solver
+and of course a problem solver
 <img src="https://user-images.githubusercontent.com/78433466/234958011-af96ae46-850e-42df-8a1f-b3499998009b.png" width="30"/>
 <br>
 I'm constantly exploring new technologies and improve my skills 
