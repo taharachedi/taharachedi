@@ -1,52 +1,39 @@
-<h1 align="center"><b>Hi , I'm Taha Rachedi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h1 align="center"> <img
+      src="https://cdn0.iconfinder.com/data/icons/avatar-229/70/25-512.png"(https://octodex.github.com/fintechtocat/)"  width="120" height="120"/>Hello...Taha Rachedi Here </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+      
+<h3>
+I'm a software developer<img src="https://i.ibb.co/xfN0brH/working-cat.gif" width="30"/>
+and ofcourse a problem solver
+<img src="https://user-images.githubusercontent.com/78433466/234958011-af96ae46-850e-42df-8a1f-b3499998009b.png" width="30"/>
+<br>
+I'm constantly exploring new technologies and improve my skills 
+<img src="https://user-images.githubusercontent.com/78433466/234958559-5907a4f3-9a21-4660-9c65-823772f758c7.png" width="25"/>
+</h3>
+
+### 🛠 &nbsp;Tech Stack
+<img  src="https://user-images.githubusercontent.com/78433466/234953332-f4e461b5-2b93-4133-9bc8-ee48440691fa.png" height="30" width="30"/> <img  src="https://user-images.githubusercontent.com/78433466/234954329-6e47befd-26e0-46c4-8628-c01c2378b0a8.png" height="30" width="30"/>
+<img  src="https://user-images.githubusercontent.com/78433466/234954776-1e89439a-80b3-490d-bcc1-fb3058344c2f.png" height="30" width="30"/>
+<img  src="https://user-images.githubusercontent.com/78433466/234955278-55d52452-0450-4e94-899f-eb26e28ac136.png" height="30" width="30"/>
+<img  src="https://user-images.githubusercontent.com/78433466/234955492-78d92890-7c70-4163-9317-0cbae37d893e.png" height="30" width="30"/>
+<img  src="https://user-images.githubusercontent.com/78433466/234955670-df95b42e-fd83-4726-a214-5cd221120633.png" height="30" width="30"/>
+<img  src="https://user-images.githubusercontent.com/78433466/234956309-8b856d3b-d8a0-4cbf-8088-f04006582e43.png" height="30" width="30"/>
+<img  src="https://user-images.githubusercontent.com/78433466/234956480-9b1fd034-cb1e-41ef-8e34-348cc58bb4da.png" height="30" width="30"/>
+<img  src="https://user-images.githubusercontent.com/78433466/234957252-3c6008d3-69d2-4d93-a168-aa5704dadb99.png" height="30" width="30"/>
+<img  src="https://user-images.githubusercontent.com/78433466/234957377-52a64b63-a2e5-4111-9040-709340c7ab3d.png" height="30" width="30"/>
+<img  src="https://github.com/asmaacode/asmaacode/assets/78433466/c2be39ab-7f78-4259-a13c-6da0b0f25f14.png" height="30" width="30"/>
 
 
-<h3 align="center">A passionate C++ developer from Morocco</h3>
+### &nbsp;Contact Me
+<a href="https://www.linkedin.com/in/asma-a-sabbah-6bb8641a5/" target="_blank"><img src="https://img.icons8.com/color/100/undefined/linkedin-circled.png" height="30" width="30
+" alt="Linkedin-icon" /></a>
+<a href="mailto:asmaasabbah.as@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/undefined/mail.png" height="30" width="30" alt="mailto:asmaasabbah.as@gmail.com" /></a>
 
+</h1
 
-![followers](https://img.shields.io/github/followers/taharachedi?style=social)
-![stars](https://img.shields.io/github/stars/taharachedi?style=social)
+### &nbsp;Contact Me
+<a href="https://www.linkedin.com/in/taha-rachedi/" target="_blank"><img src="https://img.icons8.com/color/100/undefined/linkedin-circled.png" height="30" width="30
+" alt="Linkedin-icon" /></a>
+<a href="mailto:taharachedi7@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/undefined/mail.png" height="30" width="30" alt="mailto:taharachedi7@gmail.com" /></a>
 
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{taharachedi}/count.svg" alt="taharachedi :: Visitor's Count" /></p>
-<br/>
-<img align="right" height="220px" src="https://blog.taharachedi.com/logo/imyuebaix.gif" alt="taharachedi" />
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taharachedi&label=Profile%20views&color=0e75b6&style=flat" alt="taharachedi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taharachedi" alt="taharachedi" /></a> </p>
-
-
-
-
-- 🌱 I’m currently learning **C++**
-
-- 👨‍💻 All of my projects are available at [https://github.com/taharachedi?tab=repositories](https://github.com/taharachedi?tab=repositories)
-
-- 💬 Ask me about **C++ & Problem Solving**
-
-- 📫 How to reach me **taharachedi7@gmail.com**
-
-- 📄 Know about my experiences [linkedin.com/in/taha-rachedi](linkedin.com/in/taha-rachedi)
-
-- ⚡ Fun fact **teamwork ✌️**
-
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-<p align="left">
-<a href="https://linkedin.com/in/taha rachedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha rachedi" height="30" width="40" /></a>
-<a href="https://fb.com/taha rachedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taha rachedi" height="30" width="40" /></a>
-<a href="https://instagram.com/taha_rachedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taha_rachedi" height="30" width="40" /></a>
-<a href="https://discord.gg/taha_1974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="taha_1974" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taharachedi&show_icons=true&locale=en&layout=compact" alt="taharachedi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taharachedi&show_icons=true&locale=en" alt="taharachedi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taharachedi&" alt="taharachedi" /></p>
-
+</h1
