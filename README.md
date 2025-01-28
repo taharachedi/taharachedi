@@ -25,7 +25,7 @@ I'm constantly exploring new technologies and improve my skills
 <img  src="https://github.com/asmaacode/asmaacode/assets/78433466/c2be39ab-7f78-4259-a13c-6da0b0f25f14.png" height="30" width="30"/>
 
 
-### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="45">&nbsp;&nbsp;Contact Me 
+### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="45">&nbsp;Contact Me 
 
 <a href="https://www.linkedin.com/in/taha-rachedi/" target="_blank"><img src="https://img.icons8.com/color/100/undefined/linkedin-circled.png" height="30" width="30
 " alt="Linkedin-icon" /></a>
