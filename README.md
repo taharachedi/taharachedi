@@ -30,7 +30,7 @@ I'm constantly exploring new technologies and improve my skills
 <a href="https://www.linkedin.com/in/taha-rachedi/" target="_blank"><img src="https://img.icons8.com/color/100/undefined/linkedin-circled.png" height="30" width="30
 " alt="Linkedin-icon" /></a>
 <a href="mailto:taharachedi7@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/undefined/mail.png" height="30" width="30" alt="mailto:taharachedi7@gmail.com" /></a>
-<a href="https://instagram.com/taha_rachedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+<a href="https://instagram.com/taha_rachedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="30" /></a>
 
 
 </h1
