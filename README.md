@@ -23,7 +23,9 @@ I'm constantly exploring new technologies and improve my skills
 <img  src="https://user-images.githubusercontent.com/78433466/234957252-3c6008d3-69d2-4d93-a168-aa5704dadb99.png" height="30" width="30"/>
 <img  src="https://user-images.githubusercontent.com/78433466/234957377-52a64b63-a2e5-4111-9040-709340c7ab3d.png" height="30" width="30"/>
 <img  src="https://github.com/asmaacode/asmaacode/assets/78433466/c2be39ab-7f78-4259-a13c-6da0b0f25f14.png" height="30" width="30"/>
-
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
 
 ### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="45">&nbsp;Contact Me 
 
