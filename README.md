@@ -62,8 +62,8 @@ I'm constantly exploring new technologies and improve my skills
 </div>
 
 
-
-
+<img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127427979-7eddf4e0-1d7e-4735-8564-6a0f641130d6.png" alt="visualstudio" width="25" height="25" />
 
 
 
