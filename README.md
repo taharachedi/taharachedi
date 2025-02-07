@@ -1,3 +1,7 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+
+
 
 <h1 align="center"> <img
       src="https://cdn0.iconfinder.com/data/icons/avatar-229/70/25-512.png"(https://octodex.github.com/fintechtocat/)"  width="120" height="120"/>Hello...Taha Here </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
