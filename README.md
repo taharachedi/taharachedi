@@ -64,9 +64,10 @@ I'm constantly exploring new technologies and improve my skills
 
 <img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/59575502/127427979-7eddf4e0-1d7e-4735-8564-6a0f641130d6.png" alt="visualstudio" width="25" height="25" />
-
-
-
+<img src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="c" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127426757-5335f7bc-c63a-4e58-9e96-f43982df842d.png" alt="cpp" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127426965-45da81b5-987d-4f44-b4d7-249fae487a0a.png" alt="csharp" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="25" height="25" />
 
 
 ### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="45">&nbsp;Contact Me 
