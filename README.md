@@ -17,8 +17,8 @@ I'm constantly exploring new technologies and improve my skills
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> &nbsp; &nbsp; Tech Stack
 
-<img  src="https://user-images.githubusercontent.com/78433466/234953332-f4e461b5-2b93-4133-9bc8-ee48440691fa.png" height="30" width="30"/> <img  src="https://user-images.githubusercontent.com/78433466/234954329-6e47befd-26e0-46c4-8628-c01c2378b0a8.png" height="30" width="30"/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>
-<img  src="https://user-images.githubusercontent.com/78433466/234954776-1e89439a-80b3-490d-bcc1-fb3058344c2f.png" height="30" width="30"/>
+<img  src="https://user-images.githubusercontent.com/78433466/234953332-f4e461b5-2b93-4133-9bc8-ee48440691fa.png" height="30" width="30"/> <img src="https://user-images.githubusercontent.com/59575502/127426757-5335f7bc-c63a-4e58-9e96-f43982df842d.png" alt="cpp" width="30" height="30" /><img  src="https://user-images.githubusercontent.com/78433466/234954329-6e47befd-26e0-46c4-8628-c01c2378b0a8.png" height="30" width="30"/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>
+<img  src="https://user-images.githubusercontent.com/78433466/234954776-1e89439a-80b3-490d-bcc1-fb3058344c2f.png" height="30" width="30"/> 
 <img  src="https://user-images.githubusercontent.com/78433466/234955278-55d52452-0450-4e94-899f-eb26e28ac136.png" height="30" width="30"/>
 <img  src="https://user-images.githubusercontent.com/78433466/234955492-78d92890-7c70-4163-9317-0cbae37d893e.png" height="30" width="30"/>
 <img  src="https://user-images.githubusercontent.com/78433466/234955670-df95b42e-fd83-4726-a214-5cd221120633.png" height="30" width="30"/>
@@ -30,13 +30,13 @@ I'm constantly exploring new technologies and improve my skills
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /> <img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/59575502/127427979-7eddf4e0-1d7e-4735-8564-6a0f641130d6.png" alt="visualstudio" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="30" height="30" />
 
 
 
 
 
-<img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/59575502/127427979-7eddf4e0-1d7e-4735-8564-6a0f641130d6.png" alt="visualstudio" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="c" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/59575502/127426757-5335f7bc-c63a-4e58-9e96-f43982df842d.png" alt="cpp" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/59575502/127426965-45da81b5-987d-4f44-b4d7-249fae487a0a.png" alt="csharp" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="30" height="30" />
+ <img src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="c" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/59575502/127426757-5335f7bc-c63a-4e58-9e96-f43982df842d.png" alt="cpp" width="30" height="30" /> <img src="https://user-images.githubusercontent.com/59575502/127426965-45da81b5-987d-4f44-b4d7-249fae487a0a.png" alt="csharp" width="30" height="30" /> 
 
 
 
